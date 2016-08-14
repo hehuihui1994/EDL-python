@@ -20,7 +20,7 @@
 
 ##文件说明
   
-* EDL_hhh.py
+* EDL_hhh.py<br>
   实现标签分布学习（Label Distribution Learning, LDL）方法。
   
 * evaluation_for_LDL.py<br>
